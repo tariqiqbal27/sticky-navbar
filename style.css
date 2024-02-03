@@ -1,0 +1,9 @@
+header {
+    transition: 0.5s;
+    padding-bottom: 50px;
+}
+
+header.sticky {
+    padding: 5px 100px;
+    background: #fff;
+}
